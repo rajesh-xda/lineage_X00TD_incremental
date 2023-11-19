@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1699781953,
-      "filename": "lineage-20.0-X00TD-20231105-update-20231112.zip",
-      "id": "dd44d232adcee4c534b3144b07bbacfa",
+      "datetime": 1700360218,
+      "filename": "lineage-20.0-X00TD-20231112-update-20231119.zip",
+      "id": "560b2073abecb45d24d252ddef38c276",
       "romtype": "UNOFFICIAL",
-      "size": 15317244,
-      "url": "https://sourceforge.net/projects/lineage-x00td/files/lineage-20.0/incremental/lineage-20.0-X00TD-20231105-update-20231112.zip/download",
+      "size": 65281955,
+      "url": "https://sourceforge.net/projects/lineage-x00td/files/lineage-20.0/incremental/lineage-20.0-X00TD-20231112-update-20231119.zip/download",
       "version": "20.0"
     }
   ]
